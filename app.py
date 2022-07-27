@@ -16,10 +16,6 @@ st.title('Streamlit App')
 '''
 st.code(code, language='python')
 
-# image
-image = Image.open('youtube.png')
-st.image(image, width=200)
-
 
 # video
 video_file = open('geometric.mp4', 'rb')
