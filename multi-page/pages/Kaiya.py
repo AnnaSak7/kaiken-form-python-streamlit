@@ -16,4 +16,4 @@ st.text(f'energy level: 5')
 
 kaiya_image = Image.open('./data/kaiya.JPG')
 st.image(kaiya_image, width=500)
-st.text('Kaiya is a girl who was born in June, 2014 in Japan\nand came to Sweden when she was 2 months old.\nShe has a inoshishi body type like her father\nand maki-o, curly tail like her mother.')
+st.text('Kaiya is a girl who was born in Japan\nand came to Sweden when she was 2 months old.\nShe has a boar body type like her father\nand maki-o, curly tail like her mother.')
